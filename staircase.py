@@ -1,4 +1,4 @@
-print "How many stairs in the staircase? Type a number and press Enter:"
+print "Build a staircase! Type a number and press Enter:"
 n = int(raw_input().strip())
 def space_maker2(n, staircase):
     space = n - len(staircase)
