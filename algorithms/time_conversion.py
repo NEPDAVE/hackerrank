@@ -1,6 +1,6 @@
 print "Military Time Converter."
 print "Required format: '12:40:22AM'"
-print "Type in time in this and press Enter:"
+print "Type in time and press Enter:"
 
 time = input().strip()
 
